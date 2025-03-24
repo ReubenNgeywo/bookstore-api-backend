@@ -1,0 +1,19 @@
+# IntelliJ IDEA files
+.idea/
+*.iml
+
+# Maven build output
+target/
+
+# Windows files
+Thumbs.db
+Desktop.ini
+
+# macOS files (if applicable)
+.DS_Store
+
+# Logs
+*.log
+
+# H2 database files (if any)
+*.db.
