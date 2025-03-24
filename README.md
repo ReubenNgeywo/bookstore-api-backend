@@ -22,5 +22,5 @@ This Spring Boot application implements a RESTful API for managing a bookstore. 
 ## How to Run the Application
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/Book_store-api.git
+   git clone https://github.com/ReubenNgeywo/Book_store-api.git
    cd Book_store-api
